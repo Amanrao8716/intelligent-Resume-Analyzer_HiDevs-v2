@@ -1,0 +1,19 @@
+Aman Rao
+aman.rao@example.com | +91 98765 43210
+
+SUMMARY
+Final-year B.E. Computer Science student with hands-on Python and web projects.
+
+EXPERIENCE
+Software Intern, Acme Labs        Jun 2024 - Aug 2024
+- Built REST API endpoints with Flask and SQL (PostgreSQL)
+- Used Git and GitHub Actions for CI/CD
+
+Backend Developer (Freelance)     Jan 2025 - Present
+- Containerised services with Docker, deployed on AWS (EC2, S3)
+
+EDUCATION
+B.E. in Computer Science, BMS Institute of Technology, 2022 - 2026
+
+SKILLS
+Python, C, HTML, CSS, SQL, Git, Docker, pytest, Data Structures and Algorithms

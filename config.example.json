@@ -1,0 +1,7 @@
+{
+  "weights": {"skills": 0.55, "experience": 0.25, "education": 0.10, "keywords": 0.10},
+  "strong_threshold": 75,
+  "maybe_threshold": 50,
+  "output_dir": "output",
+  "log_level": "INFO"
+}

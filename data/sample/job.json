@@ -1,0 +1,8 @@
+{
+  "title": "Backend Developer Intern",
+  "required_skills": ["Python", "SQL", "Git", "REST API"],
+  "nice_to_have_skills": ["Docker", "AWS", "Kubernetes"],
+  "min_years_experience": 1,
+  "min_education": "bachelor",
+  "description": "Build and maintain backend services in Python with SQL databases, REST APIs and Git workflows."
+}
