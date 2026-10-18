@@ -79,3 +79,10 @@ docker build -t resume-analyzer . && docker run -p 8501:8501 resume-analyzer
 Extraction is rule-based (regex + taxonomy), so unusual layouts and skills outside the
 taxonomy can be missed. Extend the taxonomy through `skills_file`; spaCy-based entity
 extraction would be the next step.
+## 🎥 Project Demo
+
+Watch the project demo here:
+
+[![Resume Analyzer Demo](https://img.youtube.com/vi/mlpkI6vsRyY/0.jpg)](https://youtu.be/mlpkI6vsRyY)
+
+**▶️ [Click here to watch the full demo on YouTube](https://youtu.be/mlpkI6vsRyY)**
